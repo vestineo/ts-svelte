@@ -18,11 +18,6 @@
 </script>
 
 <Header />
-
-<main>
-	<slot />
-</main>
-
 <footer>
 	<p><a href='/'>Back to Home</a></p>
 </footer>
